@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<head>
+<title>Kaitlynne</title>
+</head>
+<body>
+	<h1><em>My Notes From YES</em></h1>
+	<h2 style="color:green"><em>PHYSICS SECTION</em></h2>
+<p><strong><mark>Physics</mark></strong> is the study of motion.</p>
+<h4>Physics Word Bank</h4>
+<ol>
+<li>Scalar Quantities</li>
+<li>Vector Quantities</li>
+<li>Acceleration</li>
+<li>Speed</li>
+<li>Velocity (speed + direction)</li>
+<li>Distance</li>
+<li>Displacement (distance + direction)</li>
+<li>Mass
+<li>Area</li>
+<li>Force</li>
+<li>Volume</li>
+<li>Weight</li>
+<li>Fulcrum</li>
+<li>Asymptote</li>
+<li>Pythogorean Theorum</li>
+<li>Hypotenuse</li>
+	</ol>
+<h3>Scalar Quantities</h3>
+<p>A <strong><mark>Scalar Quantity</mark></strong> is the size of something without a direction.</p>
+<li>Mass</li>
+<li>Distance</li>
+<li>Area</li>
+<li>Volume</li>
+<li>Speed</li>
+<li>Temperature</li>
+<li>Time</li>
+<li>Length</li>
+<h3>Vector Quantities</h3>
+<p>A <strong><mark>Vector Quantity</mark></strong> is the size of something with a direction.</p>
+<li>Weight</li>
+<li>Velocity</li>
+<li>Displacement</li>
+<li>Acceleration</li>
+<li>Force</li>
+<h2 style="color:red"><em>WRITING</em></h2>
+<p>THOUGHT to SPEECH to CORRECT GRAMMAR to WRITING</p>
+<h4>Writing Word Bank</h4>
+<ol>
+<li>Nostalgia</li>
+<li>Epiphany</li>
+<li>Respectivel</li>
+<li>Metacognition</li>
+<li>Causality</li>
+<li>Dogmatic</li>
+<li>Obscure</li>
+<li>Dependent Cause</li>
+<li>Independent Cause</li>
+</ol>
+
+</body>
+
+
+
+
+
+	<!--If you want to style an element like you have done to your h2 (physics section), make sure you include your style attributes in "" marks.  Your webpage looks really nice so far!  Keep it up!-->
+</html>
