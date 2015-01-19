@@ -1,0 +1,55 @@
+
+<!doctype html>
+<head>
+    <title>student.org</title>
+</head>
+
+<body>
+     <h1>Physics notes</h1>
+    <p>A <mark>scalor</mark> quatity has no diration and has size .</p>
+    <ol>Here are some example of saclor.
+        <li> speed </li>
+        <li>mass</li>
+        <li>distance</li>
+    </ol>
+     <p>A <mark>vector</mark> quatity has a diretion.</p>
+     <ol>Here are some example of vector 
+         <li>velosity</li>
+         <li>wieght</li>
+         <li>displacement</li>
+     </ol>
+    <p>If you want to learn more about physics go to physics.org.</p>
+
+<h1>Writing notes</h1>
+<iframe width="560" height="300" src="//www.youtube.com/embed/8Gv0H-vPoDc" frameborder="0" allowfullscreen></iframe> 
+This video may sound like blurred lines but has a real message to it.
+This video is about how humans are speaking incorrectly and are making silly errors when they speak.
+<ol>Some of the sentence that is a word crime is:
+   <li>When you say "I literally can not get out of bed" it mean you are chained to your bed.
+   </li>
+   <li>you shoud not use numbers as words. For example "wr1t3 word5 u51n6 numb3rs".This sentence is hard is hard for someone to understand. Someone may not know that 3 is a e.  </li> 
+</ol>
+     <h1>Bio notes</h1>
+  <iframe width="400" height="200" src="//www.youtube.com/embed/DgbdNNfotwM" frameborder="0" allowfullscreen></iframe>
+<p>Their are 3 treatments for cancer. </p>
+ <ol>The treatments are   
+    <li>Radiation</li>
+    <li>Chemotherapy</li>
+    <li>Surgery</li>
+ </ol>
+<p>Radiation is when the doctor use a beam of light straight at the tumor.The light is suppose to kill the tumor or tumors.But some times the tumor comes back.So radiation is not the best treatment for cancer.</p>
+  <p>The second treatment is chemotherapy. Chemotherapy is when you use drugs to destory the tumor. sometimes that m  </p>
+
+
+
+
+
+
+
+
+
+
+    <p></p>
+</body>
+
+</html>
