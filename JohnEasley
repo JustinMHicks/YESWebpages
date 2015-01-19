@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<head> 
+    <title>b_a_l_l_i_n</title>
+</head>
+<body>
+    <h1 style="color:silver">Physics Notes</h1> 
+<h3 style="color:green">Word Analysis</h3>       
+<ol>
+        <li>Acceleration</li>
+        <li>Speed</li>
+        <li>Velocity(speed + direction)</li>
+        <li>Distance</li>
+        <li>Displacement (distance +direction)</li>
+        <li>Equilibruim</li>
+        <li>Scalar Quanities</li>
+        <li>Vector Quanities</li>
+        <li>Force of Gravity</li>
+        <li>Mass</li>
+        <li>Weight</li>
+       <p style= "color:gold">Physics (from Ancient Greek: Ï†Ï…ÏƒÎ¹ÎºÎ® (á¼Ï€Î¹ÏƒÏ„Î®Î¼Î·) phusiká¸— (epistá¸—mÄ“) â€œknowledge of natureâ€, from Ï†ÏÏƒÎ¹Ï‚ phÃºsis "nature" is the natural science that involves the study of matter and its motion through space and time, along with related concepts such as energy and force.More broadly, it is the general analysis of nature, conducted in order to understand how the universe behaves.</p>
+
+<p style= "color:red">Physics is one of the oldest academic disciplines, perhaps the oldest through its inclusion of astronomy. Over the last two millennia, physics was a part of natural philosophy along with chemistry, certain branches of mathematics, and biology, but during the Scientific Revolution in the 17th century, the natural sciences emerged as unique research programs in their own right. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms of other sciences while opening new avenues of research in areas such as mathematics and philosophy.</p>
+
+<p style= "color:blue">Physics also makes significant contributions through advances in new technologies that arise from theoretical breakthroughs. For example, advances in the understanding of electromagnetism or nuclear physics led directly to the development of new products which have dramatically transformed modern-day society, such as television, computers, domestic appliances, and nuclear weapons;advances in thermodynamics led to the development of industrialization; and advances in mechanics inspired the development of calculus.</p>
+<em>- From Wikipedia</em>
+<h2>Mr. Eisner's review!</h2>
+<ul>
+    <li>Define Velocity</li>
+    <li>Define Acceleration;write the formula for acceleration</li>
+    <li>Acceleration is constant</li>
+    <li>Acceleration occurs, inital velocity <mark>is</mark>  </li>
+    <li>Acceleration oocurs, inital velocity <mark>is not</mark></li>
+    <li>Difference B/ scalar +vector; give 3 examples of each </li>
+    <li>Same as #3, but graph each scenario</li>
+    <li>Solve Justin's Ferry problem</li>
+    
+</ul>
+</body>
+<!--So far, looking pretty good John!  Keep it up.  Remember to include both an ordered(!) and unordered list, paragraph element(!), 3 different sizes of headers(!), bold text, italic text(!), and highlighted text.-->
+</html>
