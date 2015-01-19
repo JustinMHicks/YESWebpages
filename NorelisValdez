@@ -1,0 +1,25 @@
+<head>
+    <title>YES Notes</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body style="background-color:aqua;">
+    <h1>Physics Notes</h1>
+    <h2>Vocabulary</h2>
+    <ul>
+    <li>Acceleration-The ratio of the change of velocity over the change in time</li>
+        <li>Fulcrum-The point of a lever that is fixed or doesn't move</li>
+        <li>Newtons- A unit of force</li>
+        <li>Scaler-A measure of magnitude</li>
+        <li>Vector-A measure of magnitude <em>and direction</em></li>
+         </ul>
+<h2>Formulas</h2>
+    <p>When calculating the displacement of a moving object, which velocity is <strong>constant</strong>, use the formula "velocity <em>x</em> time". For example, if a plane is flying at a constant velocity of 30 meters per second, for 5 seconds, it's displacement would be 150 meters (30x5=150)
+    If you are calculating the displacement of a moving object when acceleration occurs, and the initial velocity is 0, the formula would be "(time <em>x</em> velocity)/2".
+    Last, but not least, to find the displacement of a moving object when acceleration occurs however,the <mark>initial velocity is not 0</mark>, the formula is "[(initial velocity <em>+</em> final velocity) time] /2". If you haven't noticed these formulas are very similar to the formulas for the area of some shapes.     <ol>
+        <li>The first formula, which is "velocity <em>x</em> time", is based off of the formula for a rectangle, which is "length <em>x</em> width"</li>
+        <li>The second formula, which "(time <em>x</em> velocity)/2", is based off of the formula for the area of a triangle, which is "(base <em>x</em> height)/2"</li>
+        <li>The last formula, which is "[(initial velocity <em>+</em> final velocity) time] /2", is based off of the formula for the area of a trapezoid, which is "[(base 1<em>+</em> base 2) height] /2"</li>
+    </ol>
+</body>
+<!--Norelis, although you got a bit of a late start, this is coming along nicely.  Keep working on it!  Remember to incldue three different sizes of headers, bold text, highlighted text, and italic text.-->
+</html>
