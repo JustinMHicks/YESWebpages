@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<head>
+	<title>Biology</title>
+</head> 
+	<body>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<mark><h1>Biology</h1></mark> 
+<h2> The Heart</h2>
+	<h3>The heart is a major organ in your body. </h3>
+	<p> The heart has 4 chambers in a mammal. </p> 
+	<img style= "height:200px; width:500px"src="http://figures.boundless.com/23343/raw/heart-diagram-en.svg">
+	<em><li>Right Atruim</li></em>
+	<ul> The deoxygenated blood travels here from he inferior vena cava then the superior vena cava and then to the right atrum. Which will be pumped in to the right ventricle through the tricuspid valve.
+	</ul>
+    <em><li>Right Ventricle</li></em>
+    <ul>When the tricuspid valve opens it causes blood to pump to the lungs this causes the blood to be diffudes with oxygen molecules which means that</ul>
+    <em><li>Left Atruim</li></em>
+    <ul >The left atrium is one of the heart's four hollow chambers; it can be found on the upper right hand side of the heart. Oxygen-rich blood enters the left atrium from the pulmonary veins; the left atrium then pumps this blood directly into the left ventricle. The left atrium receives most of its blood supply from the left circumflex coronary artery. Drainage of the veins is carried out, in part, through left atrium's oblique vein.
+</ul>
+    <em><li>Left Ventricle</li></em>
+    <ul> The left vetricle is the largest chamber in the heart. It needs to be the largest chamber because it pumps the newly oginated blood to the rest of the body through aortic valve then through the aortic artery.</ul>
+     <iframe width="440" height="330" src="//www.youtube.com/embed/tRFMEeQCkpA" frameborder="0" allowfullscreen></iframe>
+   <ol><h3> Read this about a left atruim on the wiki.</h3></ol>
+<a href="http://en.wikipedia.org/wiki/Right_atrium">Right Atruim</a>
+<h3> Read this about a right ventricle on the wiki.</h3>
+	<a href="http://en.wikipedia.org/wiki/Left_atrium">Left Atruim</a>
+	<h3> Read this about a right atruim on the wiki.</h3>
+	<a href="http://en.wikipedia.org/wiki/Right_Ventricle">Right Ventricle</a>
+	<h3> Read this about a left ventricle on the wiki.</h3>
+	<a href="http://en.wikipedia.org/wiki/Left_Ventricle">Left Ventricle</a>
+	<h2>Brain</h2>
+	<ul>Neuro Groove Forms
+In the early development of the brain, when you are about two weeks old the neural groove starts forming. By the third week the neural tube starts wrapping around itself into a closed cylinder. Which later becomes the brain stem and the brain</ul>
+<ul>In a small period of time the brain produces billions of neurons for a lifetime of thinking. The neurons have to crawl through the neural tubes, the brain builds itself from the inside out the outer-most neurons of the brain- the deep thinking layers of the cerebral cortex push their way from the inside part of the neural tube. Each neuron is specialized for different roles. It starts building glial cells and at the end of the process the brain prepares to kill billions of its own neurons through a process called apoptosis
+At birth the brain has about 100 billion neurons which you will
+keep for the rest of your life.
+<ul>
+</body>
+<!--Elmer, focus on having all of the required elements - headers, ordered and unordered lists, bold text, highlight text, italic text, etc. - before you add things like links.  We will get there soon...next week we will cover self-closing links like imgs and anchors.(ok thanks)-->
+
+</html> 
